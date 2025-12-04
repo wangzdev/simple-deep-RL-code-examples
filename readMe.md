@@ -13,7 +13,7 @@ here is how to install depencencies for DDQN_atari_space_invaders in google's co
 
 if it still fails,check if the python version is too high .In my case ,I use python=3.10
 
-## if you want to use the trained model to play game and record game video
+## if you want to use the trained model to play atari game and record video
 pip install numpy matplotlib imageio imageio-ffmpeg moviepy jupyter notebook
 
 the .ipynb file shows how do this
